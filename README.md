@@ -1,2 +1,2 @@
-# lfs
-This repository consists basics of building linux.
+# ebooks
+This branch consists of free ebooks.
